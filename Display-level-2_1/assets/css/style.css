@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+
+section{
+    width: 1600px;
+
+}
+
+article{
+    width:400px;
+    display: inline-block;
+    border: solid thin grey;
+    padding: 40px 80px 40px 20px;
+    margin: 20px 20px;
+
+}
+
+h2{
+    padding: 10px;
+}
+
+li{
+    padding: 0px 30px;
+    list-style:none;
+}
+
+
+
+

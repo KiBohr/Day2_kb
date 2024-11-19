@@ -1,0 +1,22 @@
+*{
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+    color:cornflowerblue;
+    background-color:azure;
+}
+
+header{
+    background-color:aliceblue;
+    padding: 10px 10px 10px 50px;
+    margin: 10px;
+    color:brown
+}
+section{
+    margin: 20px;
+}
+
+img{
+    padding: 10px 10px;
+}
+
